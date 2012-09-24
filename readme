@@ -1,0 +1,5 @@
+You can use 【node src/twitter/app.js】 to start a node server.
+
+You can send a message like twitter at http://localhost:9001/
+and check all messages sended at http://localhost:9001/tweets .
+
